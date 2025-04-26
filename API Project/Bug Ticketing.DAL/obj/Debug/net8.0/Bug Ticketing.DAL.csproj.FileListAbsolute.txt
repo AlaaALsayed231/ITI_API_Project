@@ -1,0 +1,15 @@
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\bin\Debug\net8.0\Bug Ticketing.DAL.deps.json
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\bin\Debug\net8.0\Bug Ticketing.DAL.runtimeconfig.json
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\bin\Debug\net8.0\Bug Ticketing.DAL.dll
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\bin\Debug\net8.0\Bug Ticketing.DAL.pdb
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.csproj.AssemblyReference.cache
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.AssemblyInfoInputs.cache
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.AssemblyInfo.cs
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.sourcelink.json
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.dll
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\refint\Bug Ticketing.DAL.dll
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.pdb
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\Bug Ticketing.DAL.genruntimeconfig.cache
+C:\Users\SOFT ZONE\Desktop\API Project\API Project\Bug Ticketing.DAL\obj\Debug\net8.0\ref\Bug Ticketing.DAL.dll

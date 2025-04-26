@@ -1,7 +1,200 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\bugs\\bugmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\bugs\\bugmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\bug\\bugrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\bug\\bugrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\bug\\ibugrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\bug\\ibugrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\bugs\\ibugmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\bugs\\ibugmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\bugs\\bugdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\bugs\\bugdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\dataaccesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\dataaccesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\attachments\\attachmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\attachments\\attachmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\attachments\\iattachmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\attachments\\iattachmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\projects\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\projects\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\managers\\projects\\iprojectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\managers\\projects\\iprojectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\context\\bugticketingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\context\\bugticketingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\genericrepository\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\genericrepository\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\genericrepository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\genericrepository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\project\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\project\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\businessextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\businessextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\attachments\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\attachments\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\bug ticketing.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\bug ticketing.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\attachment\\iattachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\attachment\\iattachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\attachment\\attachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\attachment\\attachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\repositories\\project\\iprojectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\repositories\\project\\iprojectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\bugs\\user_bugdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\bugs\\user_bugdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\api project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\api project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\api project\\api project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA113E14-961E-4D9E-9E29-4D3259EE83E5}|API Project\\API Project.csproj|solutionrelative:api project\\api project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\bugs\\bugreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\bugs\\bugreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\bugs\\bugadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\bugs\\bugadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\projects\\projectadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\projects\\projectadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\projects\\bugdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\projects\\bugdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\projects\\projectdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\projects\\projectdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.bl\\dtos\\projects\\projectreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283861D-7680-48FD-89D5-33D131F0DC0A}|Bug Ticketing.BL\\Bug Ticketing.BL.csproj|solutionrelative:bug ticketing.bl\\dtos\\projects\\projectreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|c:\\users\\soft zone\\desktop\\api project\\api project\\bug ticketing.dal\\migrations\\20250426083801_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109B2B0B-C704-4ABC-9031-5146EB697446}|Bug Ticketing.DAL\\Bug Ticketing.DAL.csproj|solutionrelative:bug ticketing.dal\\migrations\\20250426083801_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +202,608 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugController.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\BugController.cs",
+              "RelativeDocumentMoniker": "API Project\\Controllers\\BugController.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\BugController.cs",
+              "RelativeToolTip": "API Project\\Controllers\\BugController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:19:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BugManger.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Bugs\\BugManger.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Bugs\\BugManger.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Bugs\\BugManger.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Bugs\\BugManger.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:27:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBugManger.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Bugs\\IBugManger.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Bugs\\IBugManger.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Bugs\\IBugManger.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Bugs\\IBugManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:26:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBugRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Bug\\IBugRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Bug\\IBugRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Bug\\IBugRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Bug\\IBugRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:35:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BugRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Bug\\BugRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Bug\\BugRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Bug\\BugRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Bug\\BugRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:36:07.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BugDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugDetailsDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Bugs\\BugDetailsDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugDetailsDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Bugs\\BugDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:28:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bug.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Bug.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Models\\Bug.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Bug.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Models\\Bug.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:38:24.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttachmentController.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\AttachmentController.cs",
+              "RelativeDocumentMoniker": "API Project\\Controllers\\AttachmentController.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\AttachmentController.cs",
+              "RelativeToolTip": "API Project\\Controllers\\AttachmentController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:20:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataAccesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\DataAccesExtensions.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\DataAccesExtensions.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\DataAccesExtensions.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\DataAccesExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:44:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttachmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Attachments\\AttachmentManager.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Attachments\\AttachmentManager.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Attachments\\AttachmentManager.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Attachments\\AttachmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:15:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAttachmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Attachments\\IAttachmentManager.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Attachments\\IAttachmentManager.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Attachments\\IAttachmentManager.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Attachments\\IAttachmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:15:33.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Projects\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Projects\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Projects\\ProjectManager.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Projects\\ProjectManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:44:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Projects\\IProjectManager.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Managers\\Projects\\IProjectManager.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Managers\\Projects\\IProjectManager.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Projects\\IProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:45:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BugTicketingDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Context\\BugTicketingDBContext.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Context\\BugTicketingDBContext.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Context\\BugTicketingDBContext.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Context\\BugTicketingDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:52:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\GenericRepository\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\GenericRepository\\IGenericRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:55:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\GenericRepository\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\GenericRepository\\GenericRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\GenericRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:00:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Project\\ProjectRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Project\\ProjectRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Project\\ProjectRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Project\\ProjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:11:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:41:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:41:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BusinessExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\BusinessExtensions.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\BusinessExtensions.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\BusinessExtensions.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\BusinessExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:19:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "API Project\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "API Project\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:12:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API Project\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API Project\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:29:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttachmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Attachments\\AttachmentDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Attachments\\AttachmentDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Attachments\\AttachmentDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Attachments\\AttachmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:28:07.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAttachmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Attachment\\IAttachmentRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Attachment\\IAttachmentRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Attachment\\IAttachmentRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Attachment\\IAttachmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:43:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttachmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Attachment\\AttachmentRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Attachment\\AttachmentRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Attachment\\AttachmentRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Attachment\\AttachmentRepo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:41:58.61Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bug Ticketing.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Bug Ticketing.BL.csproj",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\Bug Ticketing.BL.csproj",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\Bug Ticketing.BL.csproj",
+              "RelativeToolTip": "Bug Ticketing.BL\\Bug Ticketing.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T06:42:54.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Project\\IProjectRepo.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Repositories\\Project\\IProjectRepo.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Repositories\\Project\\IProjectRepo.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Project\\IProjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:11:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Attachment.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:39:02.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\appsettings.json",
+              "RelativeDocumentMoniker": "API Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\appsettings.json",
+              "RelativeToolTip": "API Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T08:36:12.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250426083801_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250426083801_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250426083801_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250426083801_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250426083801_v1.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAmwO8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:38:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250425115821_v2.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250425115821_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:58:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250425110109_v3.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250425110109_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:01:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User_BugDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\User_BugDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Bugs\\User_BugDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\User_BugDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Bugs\\User_BugDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:13.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "API Project",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\API Project.csproj",
+              "RelativeDocumentMoniker": "API Project\\API Project.csproj",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\API Project.csproj",
+              "RelativeToolTip": "API Project\\API Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T21:43:42.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "API Project.csproj",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\API Project.csproj",
+              "RelativeDocumentMoniker": "API Project\\API Project.csproj",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\API Project\\API Project.csproj",
+              "RelativeToolTip": "API Project\\API Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T20:13:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Models\\Project.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:38:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BugReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugReadDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Bugs\\BugReadDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugReadDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Bugs\\BugReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:28:41.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BugAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugAddDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Bugs\\BugAddDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Bugs\\BugAddDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Bugs\\BugAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:28:23.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectAddDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectAddDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectAddDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:51:48.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BugDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\BugDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Projects\\BugDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\BugDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Projects\\BugDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:12:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProjectDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectDetailsDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectDetailsDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectDetailsDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:52:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectReadDto.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectReadDto.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.BL\\DTOS\\Projects\\ProjectReadDto.cs",
+              "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Projects\\ProjectReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:51:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250421195955_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421195955_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:59:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250421205658_v2.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421205658_v2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:56:58.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250421195541_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421195541_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:55:42.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250421195214_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421195214_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:52:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250421193559_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421193559_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:36:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250421195006_v1.cs",
+              "DocumentMoniker": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs",
+              "RelativeDocumentMoniker": "Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs",
+              "ToolTip": "C:\\Users\\SOFT ZONE\\Desktop\\API Project\\API Project\\Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs",
+              "RelativeToolTip": "Bug Ticketing.DAL\\Migrations\\20250421195006_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:50:06.67Z"
             }
           ]
         }
