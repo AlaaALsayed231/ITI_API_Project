@@ -5,6 +5,7 @@ The system includes features like user authentication and authorization, project
 
 💡 This project is based on a real-world Bug Tracking workflow to help teams manage software issues effectively and improve collaboration.
 
+![005](https://github.com/user-attachments/assets/5a95aa05-2af6-4079-8966-87b09aa9feb9)
 
 
 # 🏗️ Tech Stack
@@ -12,8 +13,8 @@ The system includes features like user authentication and authorization, project
 
 -Framework: ASP.NET Core Web API
 
-- AutoMapper
-  
+-AutoMapper
+
 -Database: SQL Server
 
 -Architecture: Clean Architecture
@@ -24,7 +25,9 @@ The system includes features like user authentication and authorization, project
 
 -File Upload: Image service
 
-- Swagger (for API documentation)
+-Swagger (for API documentation)
+
+
 
 # **📦 API Endpoints**
    Project
