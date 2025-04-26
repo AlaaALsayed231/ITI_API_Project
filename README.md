@@ -7,10 +7,10 @@ The system includes features like user authentication and authorization, project
 
 
 
-# **🏗️ Tech Stack**
+# 🏗️ Tech Stack
 -Language: C#
 -Framework: ASP.NET Core Web API
-- AutoMapper 
+- AutoMapper
 -Database: SQL Server
 -Architecture: Clean Architecture
 -Authentication: ASP.NET Identity + JWT (Access & Refresh Tokens)
@@ -31,7 +31,7 @@ The system includes features like user authentication and authorization, project
   User:
   ![004](https://github.com/user-attachments/assets/2a0f9581-90a7-4202-b619-3f72c17a80d3)
 
-📂 Project Structure
+## 📂 Project Structure
 
 /Project.Api
     ├── Base
