@@ -58,6 +58,7 @@ The system includes features like user authentication and authorization, project
     └── BusinessExtensions.cs
 
 /Bug Ticketing.DAL
+
     ├── Context
     ├── GenericRepository
     ├── Migrations
