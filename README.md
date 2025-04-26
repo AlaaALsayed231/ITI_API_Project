@@ -54,9 +54,7 @@ The system includes features like user authentication and authorization, project
 /Bug Ticketing.BL
 
     ├── DTOS
-    
     ├── Managers
-    
     └── BusinessExtensions.cs
 
 /Bug Ticketing.DAL
