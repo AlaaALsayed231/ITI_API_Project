@@ -1,4 +1,5 @@
-//🐞 Bug Ticketing System
+# **🐞 Bug Ticketing System**
+## **Description**
 A backend API system built with ASP.NET Core using Clean 3-Layer Architecture to manage software bug tracking and resolution.
 The system includes features like user authentication and authorization, project management, bug reporting and assignment, file attachments, and user-bug relationships.
 
@@ -6,7 +7,7 @@ The system includes features like user authentication and authorization, project
 
 
 
-🏗️ Tech Stack
+# **🏗️ Tech Stack**
 -Language: C#
 -Framework: ASP.NET Core Web API
 - AutoMapper 
@@ -17,12 +18,19 @@ The system includes features like user authentication and authorization, project
 -File Upload: Image service
 - Swagger (for API documentation)
 
-📦 API Endpoints
-  Project:
-  Bug:
-  Attachments:
-  User:
+# **📦 API Endpoints**
+   Project
+  ![000003](https://github.com/user-attachments/assets/a4018e00-71cf-41b6-8cc1-39d45a67e28d)
   
+  Bug
+  ![0002](https://github.com/user-attachments/assets/3aa6c177-dd60-4224-8948-1928b2695327)
+
+  Attachments
+  ![01](https://github.com/user-attachments/assets/46f971bd-2ff2-4e92-9cfb-e053cbd6cd12)
+
+  User:
+  ![004](https://github.com/user-attachments/assets/2a0f9581-90a7-4202-b619-3f72c17a80d3)
+
 📂 Project Structure
 
 /Project.Api
