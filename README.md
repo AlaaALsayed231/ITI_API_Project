@@ -1,4 +1,4 @@
-🐞 Bug Ticketing System
+//🐞 Bug Ticketing System
 A backend API system built with ASP.NET Core using Clean 3-Layer Architecture to manage software bug tracking and resolution.
 The system includes features like user authentication and authorization, project management, bug reporting and assignment, file attachments, and user-bug relationships.
 
