@@ -202,8 +202,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -214,8 +218,7 @@
               "RelativeToolTip": "API Project\\Controllers\\BugController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:19:48.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T17:19:48.298Z"
             },
             {
               "$type": "Document",
@@ -227,8 +230,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Bugs\\BugManger.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:27:12.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:27:12.646Z"
             },
             {
               "$type": "Document",
@@ -240,8 +242,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Bugs\\IBugManger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:26:45.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:26:45.483Z"
             },
             {
               "$type": "Document",
@@ -253,8 +254,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Bug\\IBugRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:35:53.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:35:53.749Z"
             },
             {
               "$type": "Document",
@@ -266,8 +266,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Bug\\BugRepo.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:36:07.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:36:07.106Z"
             },
             {
               "$type": "Document",
@@ -279,8 +278,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Bugs\\BugDetailsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:28:57.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:28:57.072Z"
             },
             {
               "$type": "Document",
@@ -292,8 +290,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Models\\Bug.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:38:24.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T15:38:24.019Z"
             },
             {
               "$type": "Document",
@@ -318,8 +315,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\DataAccesExtensions.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:44:04.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:44:04.37Z"
             },
             {
               "$type": "Document",
@@ -331,8 +327,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Attachments\\AttachmentManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:15:46.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:15:46.373Z"
             },
             {
               "$type": "Document",
@@ -344,8 +339,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Attachments\\IAttachmentManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:15:33.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:15:33.913Z"
             },
             {
               "$type": "Document",
@@ -357,8 +351,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Projects\\ProjectManager.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:44:41.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:44:41.958Z"
             },
             {
               "$type": "Document",
@@ -370,8 +363,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Managers\\Projects\\IProjectManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:45:10.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:45:10.796Z"
             },
             {
               "$type": "Document",
@@ -383,8 +375,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Context\\BugTicketingDBContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T22:52:04.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T22:52:04.12Z"
             },
             {
               "$type": "Document",
@@ -396,8 +387,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\IGenericRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:55:14.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:55:14.29Z"
             },
             {
               "$type": "Document",
@@ -409,8 +399,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\GenericRepository\\GenericRepo.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:00:11.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:00:11.367Z"
             },
             {
               "$type": "Document",
@@ -422,8 +411,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Project\\ProjectRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:11:28.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:11:28.88Z"
             },
             {
               "$type": "Document",
@@ -435,8 +423,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\UnitOfWork\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:41:46.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:41:46.826Z"
             },
             {
               "$type": "Document",
@@ -448,8 +435,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:41:59.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:41:59.318Z"
             },
             {
               "$type": "Document",
@@ -461,8 +447,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\BusinessExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:19:40.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:19:40.514Z"
             },
             {
               "$type": "Document",
@@ -474,8 +459,7 @@
               "RelativeToolTip": "API Project\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T07:12:42.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:12:42.258Z"
             },
             {
               "$type": "Document",
@@ -487,8 +471,7 @@
               "RelativeToolTip": "API Project\\Controllers\\UserController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:29:52.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:29:52.413Z"
             },
             {
               "$type": "Document",
@@ -500,8 +483,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\DTOS\\Attachments\\AttachmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:28:07.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:28:07.14Z"
             },
             {
               "$type": "Document",
@@ -513,8 +495,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Attachment\\IAttachmentRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:43:33.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:43:33.502Z"
             },
             {
               "$type": "Document",
@@ -526,12 +507,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Attachment\\AttachmentRepo.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:41:58.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-04-26T10:41:58.61Z"
             },
             {
               "$type": "Document",
@@ -543,8 +519,7 @@
               "RelativeToolTip": "Bug Ticketing.BL\\Bug Ticketing.BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T06:42:54.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:42:54.71Z"
             },
             {
               "$type": "Document",
@@ -556,8 +531,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Repositories\\Project\\IProjectRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:11:55.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T23:11:55.748Z"
             },
             {
               "$type": "Document",
@@ -569,8 +543,7 @@
               "RelativeToolTip": "Bug Ticketing.DAL\\Models\\Attachment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:39:02.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T15:39:02.511Z"
             },
             {
               "$type": "Document",
