@@ -47,11 +47,8 @@ The system includes features like user authentication and authorization, project
 /Project.Api
 
     ├── Base
-    
     ├── Controllers
-    
     ├── appsettings.json
-    
     └── Program.cs
 
 /Bug Ticketing.BL
