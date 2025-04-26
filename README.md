@@ -15,10 +15,15 @@ The system includes features like user authentication and authorization, project
 - AutoMapper
   
 -Database: SQL Server
+
 -Architecture: Clean Architecture
+
 -Authentication: ASP.NET Identity + JWT (Access & Refresh Tokens)
+
 -Authorization: Role-based
+
 -File Upload: Image service
+
 - Swagger (for API documentation)
 
 # **📦 API Endpoints**
